@@ -27,22 +27,22 @@
 [01:32.225] The message has already been said through patches of violet
 
 [01:45.130] How much we must have diverged
-[01:50.996] Hello
-[01:51.825] Goodnight
-[01:52.579] Goodbye
-[01:53.362] Hello
-[01:54.092] Goodnight
-[01:54.867] I'm here
+[01:50.336] Hello
+[01:51.425] Goodnight
+[01:52.479] Goodbye
+[01:53.162] Hello
+[01:53.990] Goodnight
+[01:54.667] I'm here
 [01:55.627] Goodbye
-[01:56.396] Waiting
-[01:57.179] Here we are, it's our final chance
-[02:00.150] With your hand
-[02:01.282] Do what must be done
+[01:56.096] Waiting
+[01:57.000] Here we are, it's our final chance
+[02:00.000] With your hand
+[02:01.182] Do what must be done
 
-[02:05.868] Delete
-[02:08.907] Delete
-[02:12.022] Delete
-[02:14.988] Delete
+[02:05.668] Delete
+[02:08.707] Delete
+[02:11.460] Delete
+[02:14.588] Delete
 [02:17.002] Delete
 [02:17.819] Delete
 [02:18.682] Delete
@@ -58,7 +58,7 @@
 [02:26.168] Delete
 [02:26.859] Delete
 [02:27.623] Delete
-[02:28.504] Delete
+[02:28.404] Delete
 
 [02:42.727] Oh
 [02:44.262] Round and round we go
