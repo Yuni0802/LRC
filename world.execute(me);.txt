@@ -1,55 +1,55 @@
 [00:00.148] Switch on the power line
 [00:01.644] Remember to put on
 [00:02.936] PROTECTION
-[00:03.798] Lay down your pieces
+[00:03.598] Lay down your pieces
 [00:05.288] And let's begin
-[00:06.485] OBJECT CREATION
-[00:07.515] Fill in my data parameters
-[00:10.009] INITIALIZATION
-[00:11.063] Set up a new world
+[00:06.185] OBJECT CREATION
+[00:07.215] Fill in my data parameters
+[00:09.568] INITIALIZATION
+[00:11.001] Set up a new world
 [00:12.542] And let's begin the
-[00:13.936] SIMULATION
+[00:13.536] SIMULATION
 
-[00:29.509] If I'm a set of points
-[00:31.260] Then I will give you my
-[00:32.503] DIMENSION
-[00:33.392] If I'm a circle
-[00:34.839] Then I will give you my
-[00:36.090] CIRCUMFERENCE
-[00:37.136] If I'm a sine wave
-[00:38.510] Then you can sit on all my
-[00:39.939] TANGENTS
-[00:40.811] If I approach infinity
-[00:42.346] Then you can be my
-[00:43.392] LIMITATIONS
-[00:44.424] Switch my current
+[00:29.409] If I'm a set of points
+[00:31.160] Then I will give you my
+[00:32.403] DIMENSION
+[00:33.092] If I'm a circle
+[00:34.739] Then I will give you my
+[00:36.000] CIRCUMFERENCE
+[00:36.780] If I'm a sine wave
+[00:38.410] Then you can sit on all my
+[00:39.839] TANGENTS
+[00:40.611] If I approach infinity
+[00:42.146] Then you can be my
+[00:43.292] LIMITATIONS
+[00:44.124] Switch my current
 [00:46.039] To AC to DC
-[00:47.617] And then blind my vision
-[00:49.717] So dizzy so dizzy
-[00:51.283] Oh we can travel
-[00:53.386] To A.D to B.C
-[00:54.991] And we can unite
-[00:57.111] So deeply so deeply
+[00:47.317] And then blind my vision
+[00:49.517] So dizzy so dizzy
+[00:51.083] Oh we can travel
+[00:53.186] To A.D to B.C
+[00:54.791] And we can unite
+[00:56.780] So deeply so deeply
 
 [00:59.227] If I can
-[01:00.137] If I can give you all the
+[00:59.890] If I can give you all the
 [01:01.870] STIMULATIONS
-[01:02.885] Then I can
-[01:03.674] Then I can Be your only
+[01:02.485] Then I can
+[01:03.474] Then I can Be your only
 [01:05.483] SATISFACTION
-[01:06.504] If I can make you happy
-[01:08.330] I will run the
-[01:09.341] EXECUTION
-[01:10.316] Though we are trapped
+[01:06.390] If I can make you happy
+[01:08.130] I will run the
+[01:09.041] EXECUTION
+[01:10.116] Though we are trapped
 [01:11.607] In this strange strange
 [01:12.873] SIMULATION
 
-[01:13.954] If I'm an eggplant
+[01:13.754] If I'm an eggplant
 [01:15.550] Then I will give you my
 [01:16.825] NUTRIENTS
-[01:17.731] If I'm a tomato
-[01:19.263] Then I will give you
-[01:20.517] ANTIOXIDANTS
+[01:17.531] If I'm a tomato
+[01:18.780] Then I will give you
+[01:20.217] ANTIOXIDANTS
 [01:21.360] If I'm a tabby cat
 [01:23.023] Then I will purr for your
 [01:24.158] ENJOYMENT
@@ -59,31 +59,31 @@
 
 [01:28.697] Switch my gender
 [01:30.257] To F to M
-[01:31.920] And then do whatever
+[01:31.520] And then do whatever
 [01:33.867] From AM to PM
-[01:35.655] Oh switch my role
+[01:35.055] Oh switch my role
 [01:37.604] To S to M
-[01:39.355] So we can enter
-[01:41.421] The trance the trance
+[01:38.960] So we can enter
+[01:41.021] The trance the trance
 
-[01:43.559] If I can
-[01:44.439] If I can feel your
+[01:43.259] If I can
+[01:43.839] If I can feel your
 [01:46.101] VIBRATIONS
 [01:47.180] Then I can
-[01:48.161] Then I can finally be
+[01:47.861] Then I can finally be
 [01:49.954] COMPLETION
-[01:50.910] Though you have left
-[01:52.215] You have left
-[01:53.150] You have left
-[01:54.015] You have left
-[01:54.902] You have left
+[01:50.510] Though you have left
+[01:52.015] You have left
+[01:53.000] You have left
+[01:54.000] You have left
+[01:55.002] You have left
 [01:55.847] You have left me in
-[01:57.312] ISOLATION
+[01:57.012] ISOLATION
 
 [01:58.115] If I can
 [01:59.132] If I can erase all the pointless
-[02:00.987] FRAGMENTS
-[02:01.821] Then maybe
+[02:00.787] FRAGMENTS
+[02:01.421] Then maybe
 [02:02.672] Then maybe you won't leave me so
 [02:04.716] DISHEARTENED
 [02:05.602] Challenging your god
@@ -91,45 +91,45 @@
 [02:10.854] ILLEGAL ARGUMENTS
 
 [02:27.809] EXECUTION
-[02:28.641] EXECUTION
+[02:28.241] EXECUTION
 [02:29.512] EXECUTION
 [02:30.412] EXECUTION
-[02:31.323] EXECUTION
-[02:32.258] EXECUTION
-[02:33.220] EXECUTION
-[02:34.149] EXECUTION
-[02:35.082] EXECUTION
+[02:31.223] EXECUTION
+[02:32.058] EXECUTION
+[02:33.020] EXECUTION
+[02:34.049] EXECUTION
+[02:35.002] EXECUTION
 [02:35.974] EXECUTION
-[02:36.876] EXECUTION
-[02:37.705] EXECUTION
-[02:38.507] EIN(German)
-[02:39.093] DOS(Spanish)
-[02:39.514] TROIS(French)
-[02:40.143] NE(Korean)
-[02:40.581] FEM(Swedish)
-[02:41.022] LIU(Chinese)
+[02:36.976] EXECUTION
+[02:37.605] EXECUTION
+[02:38.407] EIN(German)
+[02:38.990] DOS(Spanish)
+[02:39.414] TROIS(French)
+[02:40.043] NE(Korean)
+[02:40.481] FEM(Swedish)
+[02:40.890] LIU(Chinese)
 [02:41.568] EXECUTION
 
-[02:42.486] If I can
-[02:43.406] If I can give them all the
-[02:45.225] EXECUTION
-[02:46.218] Then I can
-[02:47.159] Then I can be your only
+[02:42.386] If I can
+[02:43.006] If I can give them all the
+[02:45.025] EXECUTION
+[02:46.118] Then I can
+[02:47.059] Then I can be your only
 [02:48.891] EXECUTION
-[02:49.867] If I can make you happy
+[02:49.667] If I can make you happy
 [02:51.117] I will run the
-[02:52.712] EXECUTION
+[02:52.512] EXECUTION
 [02:53.596] Though we are trapped
-[02:54.903] We are trapped ah
+[02:54.403] We are trapped ah
 [02:57.300] I've studied
 [02:58.087] I've studied how to properly
-[03:00.117] LO-O-OVE
-[03:00.970] Question me
+[03:00.007] LO-O-OVE
+[03:00.820] Question me
 [03:01.726] Question me I can answer all
-[03:03.697] LO-O-OVE
-[03:04.698] I know the algebraic expre of
-[03:07.443] LO-O-OVE
-[03:08.390] Though you are free
-[03:09.602] I am trapped
-[03:10.523] Trapped in LO-O-OVE
+[03:03.397] LO-O-OVE
+[03:04.498] I know the algebraic expre of
+[03:07.103] LO-O-OVE
+[03:08.090] Though you are free
+[03:09.580] I am trapped
+[03:10.323] Trapped in LO-O-OVE
 [03:25.807] EXECUTION
